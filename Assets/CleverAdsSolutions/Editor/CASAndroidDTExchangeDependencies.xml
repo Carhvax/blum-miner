@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dependencies>
+  <androidPackages>
+    <androidPackage spec="com.cleveradssolutions:fyber:8.2.7.1" version="8.2.7.1"/>
+  </androidPackages>
+</dependencies>

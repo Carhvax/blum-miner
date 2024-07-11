@@ -5,6 +5,12 @@
         if (layout.TryGetElement<TButton>(out var button))
             button.OnClick(command);
     }
+    
+    public static void OnButtonsClick<TButton>(this ScreenLayout layout, IButtonCommand command) where TButton : ButtonElement
+    {
+        if (layout.TryGetElements<TButton>(out var buttons))
+            buttons.Each(b => b.OnClick(command));
+    }
 
     public static void OnLabelShow<TLabel>(this ScreenLayout layout, ILabelCommand command) where TLabel : LabelElement
     {

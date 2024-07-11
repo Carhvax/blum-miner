@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dependencies>
+  <androidPackages>
+    <androidPackage spec="com.cleveradssolutions:inmobi:10.7.4.0" version="10.7.4.0"/>
+  </androidPackages>
+</dependencies>

@@ -1,0 +1,40 @@
+<dependencies>
+  <packages>
+    <package>androidx.lifecycle:lifecycle-process:2.6.2</package>
+    <package>com.android.installreferrer:installreferrer:2.1</package>
+    <package>com.appsflyer:af-android-sdk:6.12.2</package>
+    <package>com.appsflyer:unity-wrapper:6.12.22</package>
+    <package>com.cleveradssolutions:bigo:4.8.1.0</package>
+    <package>com.cleveradssolutions:cas-sdk:3.8.1</package>
+    <package>com.cleveradssolutions:chartboost:9.7.0.0</package>
+    <package>com.cleveradssolutions:fyber:8.2.7.1</package>
+    <package>com.cleveradssolutions:inmobi:10.7.4.0</package>
+    <package>com.cleveradssolutions:ironsource:8.1.0.0</package>
+    <package>com.cleveradssolutions:kidoz:9.1.2.0</package>
+    <package>com.cleveradssolutions:madex:1.4.4.0</package>
+    <package>com.cleveradssolutions:mintegral:16.7.71.0</package>
+    <package>com.cleveradssolutions:pangle:5.9.0.6</package>
+    <package>com.cleveradssolutions:superawesome:9.3.2.0</package>
+    <package>com.cleveradssolutions:unity:4.12.0.0</package>
+    <package>com.cleveradssolutions:vungle:7.3.2.1</package>
+    <package>com.cleveradssolutions:yandex:27.1.0.0</package>
+  </packages>
+  <files />
+  <settings>
+    <setting name="androidAbis" value="arm64-v8a,armeabi-v7a" />
+    <setting name="bundleId" value="com.tech.blum.miner" />
+    <setting name="explodeAars" value="True" />
+    <setting name="gradleBuildEnabled" value="True" />
+    <setting name="gradlePropertiesTemplateEnabled" value="True" />
+    <setting name="gradleTemplateEnabled" value="True" />
+    <setting name="installAndroidPackages" value="True" />
+    <setting name="localMavenRepoDir" value="Assets/GeneratedLocalRepo" />
+    <setting name="packageDir" value="Assets/Plugins/Android" />
+    <setting name="patchAndroidManifest" value="True" />
+    <setting name="patchMainTemplateGradle" value="True" />
+    <setting name="projectExportEnabled" value="False" />
+    <setting name="useFullCustomMavenRepoPathWhenExport" value="True" />
+    <setting name="useFullCustomMavenRepoPathWhenNotExport" value="False" />
+    <setting name="useJetifier" value="True" />
+  </settings>
+</dependencies>

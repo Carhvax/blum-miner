@@ -21,7 +21,8 @@ public abstract class MenuScreen : MonoBehaviour
         _layout.Construct();
     }
 
-    protected void OnButtonClick<TButton>(IButtonCommand command) where TButton : ButtonElement => _layout.OnButtonClick<TButton>(command);
+    public void OnButtonClick<TButton>(IButtonCommand command) where TButton : ButtonElement => _layout.OnButtonClick<TButton>(command);
+    public void OnButtonsClick<TButton>(IButtonCommand command) where TButton : ButtonElement => _layout.OnButtonsClick<TButton>(command);
 
     protected void OnLabelShow<TLabel>(ILabelCommand command) where TLabel : LabelElement => _layout.OnLabelShow<TLabel>(command);
 

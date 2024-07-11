@@ -82,12 +82,7 @@ public abstract class ObservableField<T> {
             if (NotifyWhenSubscription)
                 value?.Invoke(_value);
         }
-        remove
-        {
-            _changed -= value;
-            if (NotifyWhenSubscription)
-                value?.Invoke(_value);
-        }
+        remove => _changed -= value;
     }
     
     public event Action<T> Updated

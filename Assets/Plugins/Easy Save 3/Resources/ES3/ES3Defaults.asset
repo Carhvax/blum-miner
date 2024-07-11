@@ -29,12 +29,18 @@ MonoBehaviour:
     referenceMode: 2
     serializationDepthLimit: 64
     assemblyNames:
-    - NaughtyAttributes.Test
-    - Zenject
     - Assembly-CSharp-firstpass
-    - Assembly-CSharp
+    - Zenject
     - NaughtyAttributes.Core
+    - Assembly-CSharp
+    - AppsFlyer
+    - NaughtyAttributes.Test
+    - CleverAdsSolutions
+    - AppsFlyer.Editor
     - NaughtyAttributes.Editor
+    - NativeShare.Runtime
+    - NativeShare.Editor
+    - Tests
     showAdvancedSettings: 0
   addMgrToSceneAutomatically: 0
   autoUpdateReferences: 1

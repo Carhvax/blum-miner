@@ -1,0 +1,180 @@
+[	
+	{
+		"id": "ru",
+		"items": [
+			{
+				"id": "tab_main",
+				"translation": "Главная"
+			},
+			{
+				"id": "tab_share",
+				"translation": "Реферал"
+			},
+			{
+				"id": "tab_paying",
+				"translation": "Вывод"
+			},
+			{
+				"id": "tab_more",
+				"translation": "Еще"
+			},
+			{
+				"id": "app_start_button",
+				"translation": "Начать зарабатывать"
+			},
+			{
+				"id": "app_intro",
+				"translation": "Зарабатывайте токены за просмотр рекламы"
+			},
+			{
+				"id": "your_balance",
+				"translation": "ВАШ БАЛАНС"
+			},
+			{
+				"id": "play_ad_desc",
+				"translation": "Получайте <color=green><sprite index=0><b>4.000</b></color>за просмотр каждой рекламы"
+			},
+			{
+				"id": "share_with_friends",
+				"translation": "Приглашайте друзей\nи получайте бонусы"
+			},
+			{
+				"id": "share_with_friends_desc",
+				"translation": "После листинга ваш суммарный доход увеличится на 4% за каждого друга"
+			},
+			{
+				"id": "invite_friend",
+				"translation": "Пригласить друга"
+			},
+			{
+				"id": "token_in_listing",
+				"translation": "Invite friend"
+			},
+			{
+				"id": "token_in_listing_desc",
+				"translation": "По итогам сезона будет выпущен токен, который будет распределен между игроками"
+			},
+			{
+				"id": "ton_linkage_desc",
+				"translation": "Выберите кошелек для вывода <b>токенов</b>"
+			},
+			{
+				"id": "not_available",
+				"translation": "Недоступно"
+			},
+			{
+				"id": "not_available_desc",
+				"translation": "Будет доступно после листинга криптовалюты"
+			},
+			{
+				"id": "close",
+				"translation": "Закрыть"
+			},
+			{
+				"id": "our_socials",
+				"translation": "Наши соц.сети"
+			},
+			{
+				"id": "our_socials_desc",
+				"translation": "Больше информации можно получить на наших оф.каналах"
+			},
+			{
+				"id": "available_through",
+				"translation": "Будет доступно через"
+			},
+			{
+				"id": "watch_ad",
+				"translation": "Смотреть рекламу"
+			},
+		]
+	}, 
+	{
+        "id": "en",
+        "items": [
+			{
+				"id": "tab_main",
+				"translation": "Main"
+			},
+			{
+				"id": "tab_share",
+				"translation": "Share"
+			},
+			{
+				"id": "tab_paying",
+				"translation": "Payings"
+			},
+			{
+				"id": "tab_more",
+				"translation": "More"
+			},
+			{
+				"id": "app_start_button",
+				"translation": "Let's start!"
+			},
+			{
+				"id": "app_intro",
+				"translation": "Earn tokens for watching ads"
+			},
+			{
+				"id": "your_balance",
+				"translation": "YOUR BALANCE"
+			},
+			{
+				"id": "play_ad_desc",
+				"translation": "Get <sprite index=0> <color=green><b>4,000</b></color> for viewing each ad"
+			},
+			{
+				"id": "share_with_friends",
+				"translation": "Invite friends\nand get bonuses"
+			},
+			{
+				"id": "share_with_friends_desc",
+				"translation": "After listing, your total income will increase by 4% for each friend"
+			},
+			{
+				"id": "invite_friend",
+				"translation": "Invite friend"
+			},
+			{
+				"id": "token_in_listing",
+				"translation": "Invite friend"
+			},
+			{
+				"id": "token_in_listing_desc",
+				"translation": "At the end of the season, a token will be released that will be distributed among players"
+			},
+			{
+				"id": "ton_linkage_desc",
+				"translation": "Select wallet to receive are <b>tokens</b>"
+			},
+			{
+				"id": "not_available",
+				"translation": "Not available"
+			},
+			{
+				"id": "not_available_desc",
+				"translation": "Will be available after cryptocurrency listing"
+			},
+			{
+				"id": "close",
+				"translation": "Close"
+			},
+			{
+				"id": "our_socials",
+				"translation": "Our social networks"
+			},
+			{
+				"id": "our_socials_desc",
+				"translation": "More information can be found on our official channels"
+			},
+			{
+				"id": "available_through",
+				"translation": "Should be available via"
+			},
+			{
+				"id": "watch_ad",
+				"translation": "Watch Ad"
+			},
+        ]
+	}
+]
